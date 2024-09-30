@@ -1,0 +1,24 @@
+img{
+    width: 75%;
+}
+body{
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(238,238, 238);
+    color: rgb(51, 51, 51);
+}
+aside{
+   
+    padding-top: 15px;
+    float: right;
+    margin-right: 75px;
+
+}
+article{
+    padding-top: 15px;
+    max-width: 55%;
+    margin-left: 75px;
+   
+}
+a{
+    color: rgb(3,3,238);
+}
